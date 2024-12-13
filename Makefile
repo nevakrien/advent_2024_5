@@ -1,4 +1,4 @@
-all: part1 #part2
+all: part1 part2
 
 part1:
 	go build part1.go common.go 
